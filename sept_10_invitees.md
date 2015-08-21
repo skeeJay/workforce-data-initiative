@@ -1,6 +1,6 @@
 # September 10 Event
 ## White House Attendees
-* DJ
+* OSTP (DJ Patil)
 
 ## Invitees
 * LinkedIn (Pete)
