@@ -9,7 +9,7 @@
 * Burning Glass (Matt Sigelman <msigelman@burning-glass.com>, Dan Restuccia drestuccia@burning-glass.com)
 
 ## Tech
-* Google (Vicki - schema.org)
+* Google (Vicki Tardif <vtardif@google.com>)
 * Markle Foundation (Robert Khedouri <rkhedouri@markle.org>)
 
 ## Research
@@ -23,7 +23,7 @@
 * Commerce (Ian Kalin <IKalin@doc.gov>)
 
 
-
+--------
 
 
 # Other Partners
