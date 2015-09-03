@@ -3,7 +3,7 @@
 * OSTP (D.J., Jake, E.J., Ryan, Xavier)
 
 ## Industry
-* LinkedIn (Alan <ablue@linkedin.com>, Pablo Chavez <pchavez@linkedin.com>)
+* LinkedIn (Alan Blue <ablue@linkedin.com>, Pablo Chavez <pchavez@linkedin.com>)
 * Glassdoor (Dawn Lyon <dawn@glassdoor.com>, Robert <robert@glassdoor.com>)
 * Workday (Leighanne Levensaler <leighanne.levensaler@workday.com>, Nathaniel Hundt <natehundt@gmail.com>)
 * Burning Glass (Matt Sigelman <msigelman@burning-glass.com>, Dan Restuccia drestuccia@burning-glass.com)
