@@ -1,6 +1,7 @@
 # September 17 Event Invitees
-## White House
+## Government
 * OSTP (D.J., Jake, E.J., Ryan, Xavier)
+* Commerce (Ian Kalin <IKalin@doc.gov>)
 
 ## Industry
 * LinkedIn (Alan Blue <ablue@linkedin.com>, Pablo Chavez <pchavez@linkedin.com>)
@@ -19,12 +20,7 @@
 ## O*NET
 * O*NET (Pam Frugoli <Frugoli.Pam@dol.gov>)
 
-## Government
-* Commerce (Ian Kalin <IKalin@doc.gov>)
-
-
 --------
-
 
 # Other Partners
 * Bayes Impact (Eric Liu)
