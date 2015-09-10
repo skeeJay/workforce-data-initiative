@@ -1,4 +1,4 @@
-## Phase 1 Partners
+### Phase 1 Partners
 Invited for September 17. Initial/smallest circle to loop in first and decide initial requirements for schema adoption and expansion. By end of September, identify a point person and engineer from each company, commitment to implement existing schema, and participate in definition of schema extension.
 
 #### Government
@@ -21,7 +21,7 @@ Invited for September 17. Initial/smallest circle to loop in first and decide in
 * BLS (Horrigan.Mike@bls.gov)
 * University of Chicago (Matthew Gee <matt@theimpactlab.co>)
 
-## Phase 1.5 Partners
+### Phase 1.5 Partners
 Widening the circle to early partners we still want to loop in very early.
 * DirectEmployers/National Labor Exchange (Pam Gerassimides)
 * Oracle (Taleo) and SAP (people soft)
@@ -29,7 +29,7 @@ Widening the circle to early partners we still want to loop in very early.
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
 * GovLab (Beth Novek <noveck@gmail.com>)
 
-## Phase 2 Partners
+### Phase 2 Partners
 Widen the circle further to partners who we'll deliver a more defined schema to and ask to adopt and implement on a large scale.
 * Office of Personnel Management (OPM)/USA Jobs
 * Monster
