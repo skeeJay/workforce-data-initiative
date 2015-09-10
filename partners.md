@@ -30,7 +30,7 @@ Widening the circle to early partners we still want to loop in very early.
 * GovLab (Beth Novek <noveck@gmail.com>)
 
 ## Phase 2 Partners
-Widen the circle further to partners who we'll want to implement on a large scale.
+Widen the circle further to partners who we'll deliver a more defined schema to and ask to adopt and implement on a large scale.
 * Office of Personnel Management (OPM)/USA Jobs
 * Monster
 * Indeed
