@@ -2,23 +2,23 @@
 Invited for September 17. Initial/smallest circle to loop in first and decide initial requirements for schema adoption and expansion. By end of September, identify a point person and engineer from each company, commitment to implement existing schema, and participate in definition of schema extension.
 
 ##### Government
-* OSTP (D.J., Jake, E.J., Ryan, Xavier)
+* OSTP (D.J., Jake, E.J., Ryan, Xavier, Karen, Ricky, Natalie)
 * Commerce (Ian Kalin <IKalin@doc.gov>)
-* O*NET (Pam Frugoli <Frugoli.Pam@dol.gov>)
+* O*NET (Pam Frugoli <Frugoli.Pam@dol.gov>, Phil Lewis <Lewis.Phil@dol.gov>)
+* BLS (Mike Horrigan <Horrigan.Michael@bls.gov>)
 
 ##### Industry
 * LinkedIn (Alan Blue <ablue@linkedin.com>, Pablo Chavez <pchavez@linkedin.com>)
 * Glassdoor (Dawn Lyon <dawn@glassdoor.com>, Robert <robert@glassdoor.com>)
 * Workday (Leighanne Levensaler <leighanne.levensaler@workday.com>, Nathaniel Hundt <natehundt@gmail.com>)
 * Burning Glass (Matt Sigelman <msigelman@burning-glass.com>, Dan Restuccia drestuccia@burning-glass.com)
-* craigslist (Jake reaching out to find who to invite)
+* craigslist (Jake reaching out to determine who to invite)
 
 ##### Tech
 * Google (Vicki Tardif <vtardif@google.com>)
 * Markle Foundation (Robert Khedouri <rkhedouri@markle.org>)
 
 ##### Research
-* BLS (Horrigan.Mike@bls.gov)
 * University of Chicago (Matthew Gee <matt@theimpactlab.co>)
 
 ### Phase 1.5 Partners
