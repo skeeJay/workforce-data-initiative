@@ -10,6 +10,7 @@ As a job hunting product like LinkedIn, I want to build our prototype applicatio
 As a university, I want to know the shape of the job market and know what jobs are up and coming.
 * I need to pull **job listings** with accompanying *O•NET code* and *wage*.
 * I need to pull **individuals that have taken trainings** and their resulting *wages/outcomes*.
+* I need to pull **training listings** with mapped *associated skills* in the O*NET taxonomy.
 
 As a salary or hourly worker employer, I want to elevate my digital HR toolkit to identify and eradicate skills gaps within my workforce by finding nearby relevant training opportunities to boost skills, tasks adaptation, efficiency and long-term workforce investment resulting in lower turnover rates.
 * I need to map my own **job listings** with accompanying *O•NET code* and *wage*.
