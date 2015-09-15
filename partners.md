@@ -10,9 +10,11 @@ Invited for September 17. Initial/smallest circle to loop in first and decide in
 ##### Industry
 * LinkedIn (Alan Blue <ablue@linkedin.com>, Pablo Chavez <pchavez@linkedin.com>)
 * Glassdoor (Dawn Lyon <dawn@glassdoor.com>, Robert <robert@glassdoor.com>)
+* Burning Glass (Matt Sigelman <msigelman@burning-glass.com>, Dan Restuccia <drestuccia@burning-glass.com>)
 * Workday (Leighanne Levensaler <leighanne.levensaler@workday.com>, Nathaniel Hundt <natehundt@gmail.com>)
-* Burning Glass (Matt Sigelman <msigelman@burning-glass.com>, Dan Restuccia drestuccia@burning-glass.com)
 * craigslist (Jake reaching out to determine who to invite)
+* Taleo (Ryan reaching out to determine who to invite)
+* SAP (Ryan reaching out to determine who to invite)
 
 ##### Tech
 * Google (Vicki Tardif <vtardif@google.com>)
