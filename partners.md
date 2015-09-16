@@ -4,7 +4,7 @@ Invited for September 17. Initial/smallest circle to loop in first and decide in
 ##### Government
 * OSTP (D.J., Jake, E.J., Ryan, Xavier, Karen, Ricky, Natalie)
 * Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
-* O*NET (Pam Frugoli <Frugoli.Pam@dol.gov>, Phil Lewis <Lewis.Phil@dol.gov>, Tiffany Smith <Smith.tiffany.l@dol.gov>)
+* Labor (Pam Frugoli <Frugoli.Pam@dol.gov>, Phil Lewis <Lewis.Phil@dol.gov>, Tiffany Smith <Smith.tiffany.l@dol.gov>, Ben Seigel <Seigel.Benjamin@dol.gov>)
 * BLS (Mike Horrigan <Horrigan.Michael@bls.gov>)
 
 ##### Industry
