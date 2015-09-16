@@ -30,6 +30,7 @@ Widening the circle to early partners we still want to loop in very early.
 * U.S. Census Bureau (Avi Bender <Avi.Bender@census.gov>)
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
 * GovLab (Beth Novek <noveck@gmail.com>)
+* Georgetown (Tony Carnavale)
 
 ### Phase 2 Partners
 Widen the circle further to partners who we'll deliver a more defined schema to and ask to adopt and implement on a large scale.
