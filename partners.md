@@ -22,6 +22,7 @@ Invited for September 17. Initial/smallest circle to loop in first and decide in
 
 ##### Research
 * University of Chicago (Matthew Gee <matt@theimpactlab.co>)
+* * 100,000 Jobs Mission/Bloomberg (Rachel Book)
 
 ### Phase 1.5 Partners
 Widening the circle to early partners we still want to loop in very early.
@@ -38,4 +39,3 @@ Widen the circle further to partners who we'll deliver a more defined schema to 
 * Monster
 * Indeed
 * 18F (Gray Brooks, Erie Meyer)
-* 100,000 Jobs Mission (Rachel Book - Bloomberg)
