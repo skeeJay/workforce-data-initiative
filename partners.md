@@ -11,10 +11,6 @@ Invited for September 17. Initial/smallest circle to loop in first and decide in
 * LinkedIn (Alan Blue <ablue@linkedin.com>, Pablo Chavez <pchavez@linkedin.com>)
 * Glassdoor (Dawn Lyon <dawn@glassdoor.com>, Robert <robert@glassdoor.com>)
 * Burning Glass (Matt Sigelman <msigelman@burning-glass.com>, Dan Restuccia <drestuccia@burning-glass.com>)
-* Workday (Leighanne Levensaler <leighanne.levensaler@workday.com>, Nathaniel Hundt <natehundt@gmail.com>)
-* craigslist (Jake reaching out to determine who to invite)
-* Taleo (Ryan reaching out to determine who to invite)
-* SAP (Ryan reaching out to determine who to invite)
 
 ##### Tech
 * Google (Vicki Tardif <vtardif@google.com>)
@@ -28,6 +24,8 @@ Invited for September 17. Initial/smallest circle to loop in first and decide in
 Widening the circle to early partners we still want to loop in very early.
 * DirectEmployers/National Labor Exchange (Pam Gerassimides)
 * Oracle (Taleo) and SAP (people soft)
+* Workday (Leighanne Levensaler <leighanne.levensaler@workday.com>, Nathaniel Hundt <natehundt@gmail.com>)
+* craigslist (Jake reaching out to determine who to invite)
 * U.S. Census Bureau (Avi Bender <Avi.Bender@census.gov>)
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
 * GovLab (Beth Novek <noveck@gmail.com>)
