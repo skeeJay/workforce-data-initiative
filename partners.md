@@ -25,7 +25,10 @@ Widening the circle to early partners we still want to loop in very early.
 * DirectEmployers/National Labor Exchange (Pam Gerassimides)
 * Oracle (Taleo) and SAP (people soft)
 * Workday (Leighanne Levensaler <leighanne.levensaler@workday.com>, Nathaniel Hundt <natehundt@gmail.com>)
-* craigslist (Jake reaching out to determine who to invite)
+* craigslist
+* Texas
+* Indiana
+* New Jersey
 * U.S. Census Bureau (Avi Bender <Avi.Bender@census.gov>)
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
 * GovLab (Beth Novek <noveck@gmail.com>)
