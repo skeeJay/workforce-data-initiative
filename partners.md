@@ -1,7 +1,6 @@
 ### Phase 1 Partners
 Invited for September 17. Initial/smallest circle to loop in first and decide initial requirements for schema adoption and expansion. By end of September, identify a point person and engineer from each company, commitment to implement existing schema, and participate in definition of schema extension.
 
-* University of Chicago (Matthew Gee <matt@theimpactlab.co>)
 * Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
 * Labor (Pam Frugoli <Frugoli.Pam@dol.gov>, Phil Lewis <Lewis.Phil@dol.gov>, Tiffany Smith <Smith.tiffany.l@dol.gov>, Ben Seigel <Seigel.Benjamin@dol.gov>)
 * BLS (Mike Horrigan <Horrigan.Michael@bls.gov>)
