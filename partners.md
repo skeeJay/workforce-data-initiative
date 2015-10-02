@@ -5,7 +5,7 @@ Invited for September 17. Initial/smallest circle to loop in first and decide in
 * Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
 * Labor (Pam Frugoli <Frugoli.Pam@dol.gov>, Phil Lewis <Lewis.Phil@dol.gov>, Tiffany Smith <Smith.tiffany.l@dol.gov>, Ben Seigel <Seigel.Benjamin@dol.gov>)
 * BLS (Mike Horrigan <Horrigan.Michael@bls.gov>)
-* 
+
 * LinkedIn (Alan Blue <ablue@linkedin.com>, Pablo Chavez <pchavez@linkedin.com>)
 * Glassdoor (Dawn Lyon <dawn@glassdoor.com>, Robert <robert@glassdoor.com>)
 * Burning Glass (Matt Sigelman <msigelman@burning-glass.com>, Dan Restuccia <drestuccia@burning-glass.com>)
