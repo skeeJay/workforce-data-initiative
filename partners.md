@@ -10,11 +10,11 @@ Invited for September 17. Initial/smallest circle to loop in first and decide in
 * Google (Vicki Tardif <vtardif@google.com>)
 * Markle Foundation (Robert Khedouri <rkhedouri@markle.org>)
 * University of Chicago (Matthew Gee <matt@theimpactlab.co>)
-* 100,000 Jobs Mission/Bloomberg (Rachel Book)
 * Texas
 * Indiana
 * New Jersey
 * Workday (Leighanne Levensaler <leighanne.levensaler@workday.com>, Nathaniel Hundt <natehundt@gmail.com>)
+* ADP
 
 ### Phase 2 Partners
 Widening the circle to early partners we still want to loop in very early.
@@ -26,6 +26,7 @@ Widening the circle to early partners we still want to loop in very early.
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
 * GovLab (Beth Novek <noveck@gmail.com>)
 * Georgetown (Tony Carnavale)
+* 100,000 Jobs Mission/Bloomberg (Rachel Book)
 
 ### Phase 3 Partners
 Widen the circle further to partners who we'll deliver a more defined schema to and ask to adopt and implement on a large scale.
