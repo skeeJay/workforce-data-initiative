@@ -2,7 +2,7 @@
 Invited for September 17. Initial/smallest circle to loop in first and decide initial requirements for schema adoption and expansion. By end of September, identify a point person and engineer from each company, commitment to implement existing schema, and participate in definition of schema extension.
 
 * Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
-* Labor (Pam Frugoli <Frugoli.Pam@dol.gov>, Phil Lewis <Lewis.Phil@dol.gov>, Tiffany Smith <Smith.tiffany.l@dol.gov>, Ben Seigel <Seigel.Benjamin@dol.gov>)
+* Labor (Pam Frugoli <Frugoli.Pam@dol.gov>, Phil Lewis <Lewis.Phil@dol.gov>, Ben Seigel <Seigel.Benjamin@dol.gov>)
 * BLS (Mike Horrigan <Horrigan.Michael@bls.gov>)
 * LinkedIn (Alan Blue <ablue@linkedin.com>, Pablo Chavez <pchavez@linkedin.com>)
 * Glassdoor (Dawn Lyon <dawn@glassdoor.com>, Robert <robert@glassdoor.com>)
