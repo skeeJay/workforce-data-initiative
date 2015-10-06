@@ -1,3 +1,9 @@
+### Core Advisors
+* White House (Ryan Burke, Karen Scott, Lynn Overmann)
+* Presidential Innovation Fellows (E.J. Kalafarski)
+* Department of Labor (Xavier Hughes, Ricky Gonzalez, Tiffany Smith)
+* Sen. Booker (Natalie Harris)
+
 ### Phase 1 Partners
 Invited for September 17. Initial/smallest circle to loop in first and decide initial requirements for schema adoption and expansion. By end of September, identify a point person and engineer from each company, commitment to implement existing schema, and participate in definition of schema extension.
 
