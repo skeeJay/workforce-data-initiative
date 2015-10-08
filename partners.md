@@ -3,6 +3,7 @@
 * Presidential Innovation Fellows (E.J. Kalafarski)
 * Department of Labor (Xavier Hughes, Ricky Gonzalez, Tiffany Smith, Pam Frugoli)
 * Sen. Booker (Natalie Harris)
+* University of Chicago Impact Lab (Matt Gee)
 
 ### Phase 1 Partners
 Brought CEOs to WH on September 17. Initial/smallest circle to loop in first and decide initial requirements for schema adoption and expansion. Doing calls to follow up week of Oct 11 to ask them to identify a point person/implementor, will convene a conference call of these implementors week of Oct 18.
