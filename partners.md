@@ -20,7 +20,7 @@ Brought CEOs to WH on September 17. Initial/smallest circle to loop in first and
 * BLS (Mike Horrigan <Horrigan.Michael@bls.gov>)
 
 ### Phase 2 Partners
-Widening the circle to early partners we still want to loop in very early.
+Widening the circle to early partners we still want to loop in early. Will look to reach out week of Oct 11 and convene at the WH before the end of October.
 
 * Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
 * DirectEmployers/National Labor Exchange (Pam Gerassimides)
