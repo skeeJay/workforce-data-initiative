@@ -1,23 +1,22 @@
 ### Core Advisors
 * White House (Ryan Burke, Karen Scott, Lynn Overmann)
 * Presidential Innovation Fellows (E.J. Kalafarski)
-* Department of Labor (Xavier Hughes, Ricky Gonzalez, Tiffany Smith)
+* Department of Labor (Xavier Hughes, Ricky Gonzalez, Tiffany Smith, Pam Frugoli)
 * Sen. Booker (Natalie Harris)
 
 ### Phase 1 Partners
-Invited for September 17. Initial/smallest circle to loop in first and decide initial requirements for schema adoption and expansion. By end of September, identify a point person and engineer from each company, commitment to implement existing schema, and participate in definition of schema extension.
+Brought CEOs to WH on September 17. Initial/smallest circle to loop in first and decide initial requirements for schema adoption and expansion. Doing calls to follow up week of Oct 11 to ask them to identify a point person/implementor, will convene a conference call of these implementors week of Oct 18.
 
-* Labor (Pam Frugoli <Frugoli.Pam@dol.gov>, Phil Lewis <Lewis.Phil@dol.gov>, Ben Seigel <Seigel.Benjamin@dol.gov>)
-* BLS (Mike Horrigan <Horrigan.Michael@bls.gov>)
 * LinkedIn (Alan Blue <ablue@linkedin.com>, Pablo Chavez <pchavez@linkedin.com>)
 * Glassdoor (Dawn Lyon <dawn@glassdoor.com>, Robert <robert@glassdoor.com>)
 * Burning Glass (Matt Sigelman <msigelman@burning-glass.com>, Dan Restuccia <drestuccia@burning-glass.com>)
 * Google (Vicki Tardif <vtardif@google.com>)
-* Texas
+* Texas (Adam Leonard <adam.leonard@twc.state.tx.us>)
 * Indiana
 * New Jersey
 * Workday (Leighanne Levensaler <leighanne.levensaler@workday.com>, Nathaniel Hundt <natehundt@gmail.com>)
-* ADP
+* ADP (Matt in touch with them)
+* BLS (Mike Horrigan <Horrigan.Michael@bls.gov>)
 
 ### Phase 2 Partners
 Widening the circle to early partners we still want to loop in very early.
@@ -25,7 +24,7 @@ Widening the circle to early partners we still want to loop in very early.
 * Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
 * DirectEmployers/National Labor Exchange (Pam Gerassimides)
 * Oracle (Taleo) and SAP (people soft)
-* craigslist
+* craigslist (need to reach out again and find out who the POC is)
 * U.S. Census Bureau (Avi Bender <Avi.Bender@census.gov>)
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
 * GovLab (Beth Novek <noveck@gmail.com>)
