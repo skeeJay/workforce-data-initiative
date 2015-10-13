@@ -11,11 +11,11 @@ Brought CEOs to WH on September 17. Initial/smallest circle to loop in first and
 * LinkedIn (Alan Blue <ablue@linkedin.com>, Pablo Chavez <pchavez@linkedin.com>)
 * Glassdoor (Dawn Lyon <dawn@glassdoor.com>, Robert <robert@glassdoor.com>)
 * Burning Glass (Matt Sigelman <msigelman@burning-glass.com>, Dan Restuccia <drestuccia@burning-glass.com>)
-* Google (Vicki Tardif <vtardif@google.com>)
-* Texas (***WG:*** Adam Leonard <adam.leonard@twc.state.tx.us>)
-* Indiana
-* New Jersey
 * Workday (Nathaniel Hundt <natehundt@gmail.com>; ***WG:*** Leighanne Levensaler <leighanne.levensaler@workday.com>)
+* Texas (***WG:*** Adam Leonard <adam.leonard@twc.state.tx.us>)
+* Indiana (Karen getting in touch)
+* New Jersey (Karen getting in touch)
+* Google (Vicki Tardif <vtardif@google.com>)
 * ADP (Matt in touch with them)
 * BLS (Mike Horrigan <Horrigan.Michael@bls.gov>)
 
