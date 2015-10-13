@@ -15,7 +15,7 @@ Brought CEOs to WH on September 17. Initial/smallest circle to loop in first and
 * Texas (Adam Leonard <adam.leonard@twc.state.tx.us>)
 * Indiana
 * New Jersey
-* Workday (Leighanne Levensaler <leighanne.levensaler@workday.com>, Nathaniel Hundt <natehundt@gmail.com>)
+* Workday (Leighanne Levensaler <leighanne.levensaler@workday.com>, Nathaniel Hundt <natehundt@gmail.com>; *WG:* Leighanne Levensaler <leighanne.levensaler@workday.com>)
 * ADP (Matt in touch with them)
 * BLS (Mike Horrigan <Horrigan.Michael@bls.gov>)
 
