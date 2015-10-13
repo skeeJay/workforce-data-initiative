@@ -22,15 +22,15 @@ Brought CEOs to WH on September 17. Initial/smallest circle to loop in first and
 ### Phase 2 Partners
 Widening the circle to early partners we still want to loop in early. Will look to reach out week of Oct 11 and convene at the WH before the end of October.
 
-* Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
 * DirectEmployers/National Labor Exchange (Pam Gerassimides)
 * Oracle (Taleo) and SAP (people soft)
 * craigslist (need to reach out again and find out who the POC is)
-* U.S. Census Bureau (Avi Bender <Avi.Bender@census.gov>)
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
+* 100,000 Jobs Mission/Bloomberg (Rachel Book)
+* U.S. Census Bureau (Avi Bender <Avi.Bender@census.gov>)
+* Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
 * GovLab (Beth Novek <noveck@gmail.com>)
 * Georgetown (Tony Carnavale)
-* 100,000 Jobs Mission/Bloomberg (Rachel Book)
 * JPMorgan
 * Markle Foundation (Robert Khedouri <rkhedouri@markle.org>)
 
