@@ -24,17 +24,17 @@ Brought CEOs to WH on September 17. Initial/smallest circle to loop in first and
 Widening the circle to early partners we still want to loop in early. Will look to reach out week of Oct 11 and convene at the WH before the end of October.
 
 * DirectEmployers/National Labor Exchange (Pam Gerassimides)
-* Oracle (Taleo)
-* SAP (people soft)
-* craigslist (need to reach out again and find out who the POC is)
+* Oracle (Taleo) (Ryan reaching out)
+* SAP (people soft) (Lynn reaching out to Matt Seigelmann at Burning Glass, really tall)
+* craigslist (Xavier to reach out again and find out who the POC is)
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
-* 100,000 Jobs Mission/Bloomberg (Rachel Book)
-* U.S. Census Bureau (Avi Bender <Avi.Bender@census.gov>)
+* 100,000 Jobs Mission/Bloomberg (Rachel Book) (Lynn reaching out)
+* U.S. Census Bureau (Lynn reaching out)
 * Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
-* GovLab (Beth Novek <noveck@gmail.com>)
-* Georgetown (Tony Carnavale)
-* JPMorgan
+* Bureau of Economic Analysis (Lynn reaching out)
 * Markle Foundation (Robert Khedouri <rkhedouri@markle.org>)
+* JPMorgan (Pam getting names)
+* Georgetown (Tony Carnavale)
 * Microsoft (John Farmer <john.farmer@microsoft.com>
 * Kanjoya
 
@@ -42,6 +42,7 @@ Widening the circle to early partners we still want to loop in early. Will look 
 Widen the circle further to partners who we'll deliver a more defined schema to and ask to adopt and implement on a large scale.
 
 * Office of Personnel Management (OPM)/USA Jobs
+* GovLab (Beth Novek <noveck@gmail.com>)
 * Monster
 * Indeed
 * 18F (Gray Brooks, Erie Meyer)
