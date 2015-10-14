@@ -2,7 +2,7 @@
 * White House (Ryan Burke, Karen Scott, Lynn Overmann)
 * Presidential Innovation Fellows (E.J. Kalafarski)
 * Department of Labor (Xavier Hughes, Ricky Gonzalez, Tiffany Smith, Pam Frugoli)
-* Sen. Booker (Natalie Harris)
+* Department of Defense (Natalie Harris)
 * University of Chicago Impact Lab (Matt Gee)
 
 ### Phase 1 Partners
