@@ -24,7 +24,8 @@ Brought CEOs to WH on September 17. Initial/smallest circle to loop in first and
 Widening the circle to early partners we still want to loop in early. Will look to reach out week of Oct 11 and convene at the WH before the end of October.
 
 * DirectEmployers/National Labor Exchange (Pam Gerassimides)
-* Oracle (Taleo) and SAP (people soft)
+* Oracle (Taleo)
+* SAP (people soft)
 * craigslist (need to reach out again and find out who the POC is)
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
 * 100,000 Jobs Mission/Bloomberg (Rachel Book)
