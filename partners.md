@@ -3,7 +3,7 @@
 * Presidential Innovation Fellows (E.J. Kalafarski)
 * Department of Labor (Xavier Hughes, Ricky Gonzalez, Tiffany Smith, Pam Frugoli)
 * Department of Defense (Natalie Harris)
-* University of Chicago Impact Lab (Matt Gee)
+* University of Chicago Center for Data Science and Public Policy (Matt Gee)
 
 ### Phase 1 Partners
 Brought CEOs to WH on September 17. Initial/smallest circle to loop in first and decide initial requirements for schema adoption and expansion. Doing calls to follow up week of Oct 11 to ask them to identify a point person/implementor, will convene a conference call of these implementors week of Oct 18.
@@ -12,11 +12,12 @@ Brought CEOs to WH on September 17. Initial/smallest circle to loop in first and
 * Glassdoor (Dawn Lyon <dawn@glassdoor.com>, Robert <robert@glassdoor.com>)
 * Burning Glass (Matt Sigelman <msigelman@burning-glass.com>, Dan Restuccia <drestuccia@burning-glass.com>)
 * Workday (Nathaniel Hundt <natehundt@gmail.com>; ***WG:*** Leighanne Levensaler <leighanne.levensaler@workday.com>)
+* Career Builder (Matt McNaire <Matt.McNair@careerbuilder.com>; Faizan Javed <Faizan.Javed@careerbuilder.com>)
+* ADP (Marc Rind <Marc.Rind@adp.com>; Xiaojing Wang <Xiaojing.Wang@ADP.com>)
 * Texas (***WG:*** Adam Leonard <adam.leonard@twc.state.tx.us>)
 * Indiana (Karen getting in touch)
 * New Jersey (Karen getting in touch)
 * Google (Vicki Tardif <vtardif@google.com>)
-* ADP (Matt in touch with them)
 * BLS (Mike Horrigan <Horrigan.Michael@bls.gov>)
 
 ### Phase 2 Partners
@@ -33,7 +34,7 @@ Widening the circle to early partners we still want to loop in early. Will look 
 * Georgetown (Tony Carnavale)
 * JPMorgan
 * Markle Foundation (Robert Khedouri <rkhedouri@markle.org>)
-* Microsoft
+* Microsoft (John Farmer <john.farmer@microsoft.com>
 * Kanjoya
 
 ### Phase 3 Partners
