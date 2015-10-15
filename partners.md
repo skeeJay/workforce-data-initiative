@@ -35,7 +35,7 @@ Widening the circle to early partners we still want to loop in early. Will look 
 * Markle Foundation (Robert Khedouri <rkhedouri@markle.org>)
 * JPMorgan (Pam getting names)
 * Georgetown (Tony Carnavale)
-* Microsoft (John Farmer <john.farmer@microsoft.com>
+* Microsoft (John Paul Farmer <john.farmer@microsoft.com>)
 * Kanjoya
 
 ### Phase 3 Partners
