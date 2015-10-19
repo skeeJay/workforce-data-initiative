@@ -33,7 +33,7 @@ Widening the circle to early partners we still want to loop in early. Will look 
 * Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
 * Bureau of Economic Analysis (Lynn reaching out)
 * Markle Foundation (Robert Khedouri <rkhedouri@markle.org>)
-* JPMorgan (Pam getting names)
+* JPMorgan (Whitney Smith <whitney.s.smith@jpmchase.com>, Chauncy Lennon)
 * Georgetown (Tony Carnavale)
 * Microsoft (John Paul Farmer <john.farmer@microsoft.com>)
 * Kanjoya
