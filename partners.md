@@ -28,7 +28,7 @@ Widening the circle to early partners we still want to loop in early. Will look 
 * SAP (people soft) (***Lynn*** reaching out to Matt Seigelmann at Burning Glass, really tall)
 * craigslist (Jason Yurasek <Jason@thejyfirm.com>; Clint Powell <clint@craigslist.org>)
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
-* 100,000 Jobs Mission/Bloomberg (Rachel Book) (Lynn reaching out)
+* 100,000 Jobs Mission/Bloomberg (Rachel Book) (***Lynn*** reaching out)
 * U.S. Census Bureau (***Lynn*** reaching out)
 * Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
 * Bureau of Economic Analysis (***Lynn*** reaching out)
