@@ -25,13 +25,12 @@ Widening the circle to early partners we still want to loop in early. Will look 
 
 * DirectEmployers/National Labor Exchange (Pam Gerassimides)
 * Oracle (Taleo) (***Ryan*** reaching out)
-* SAP (people soft) (***Lynn*** reaching out to Matt Seigelmann at Burning Glass, really tall)
 * craigslist (Jason Yurasek <Jason@thejyfirm.com>; Clint Powell <clint@craigslist.org>)
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
-* 100,000 Jobs Mission/Bloomberg (Rachel Book) (***Lynn*** reaching out)
-* U.S. Census Bureau (***Lynn*** reaching out)
+* 100,000 Jobs Mission/Bloomberg (Rachel Book) (***E.J.*** reaching out)
+* U.S. Census Bureau (***Ryan*** reaching out)
 * Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
-* Bureau of Economic Analysis (***Lynn*** reaching out)
+* Bureau of Economic Analysis (***Ryan*** reaching out)
 * Markle Foundation (Robert Khedouri <rkhedouri@markle.org>)
 * JPMorgan (Whitney Smith <whitney.s.smith@jpmchase.com>, Chauncy Lennon)
 * Georgetown (Tony Carnavale)
@@ -41,6 +40,7 @@ Widening the circle to early partners we still want to loop in early. Will look 
 ### Phase 3 Partners
 Widen the circle further to partners who we'll deliver a more defined schema to and ask to adopt and implement on a large scale.
 
+* SAP (people soft)
 * Office of Personnel Management (OPM)/USA Jobs
 * GovLab (Beth Novek <noveck@gmail.com>)
 * Monster
