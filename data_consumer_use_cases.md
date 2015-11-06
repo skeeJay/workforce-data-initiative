@@ -1,6 +1,6 @@
 # Data Consumer Use Cases
 ## Developers/Products
-N.B. There are 3 key repeated "API calls" that satisfy each of these use cases.
+N.B. We ended up with just 3 key repeated "API calls" that satisfy each of these use cases.
 
 As a job hunting product, I want to build our prototype application that helps a user specify their career goals, so that I can tell them: what careers nearby make that target salary, what skills the user needs to qualify for that career, what training is available nearby, and what wages others taking those trainings have experienced.
 * I need to pull **training listings** with mapped *associated skills* in the O*NET taxonomy.
