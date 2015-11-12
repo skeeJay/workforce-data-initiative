@@ -27,7 +27,6 @@ Widening the circle to early partners we still want to loop in early. Will look 
 * Oracle (Taleo) (***Ryan*** reaching out)
 * craigslist (Jason Yurasek <Jason@thejyfirm.com>; Clint Powell <clint@craigslist.org>)
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
-* 100,000 Jobs Mission/Bloomberg (Rachel Book) (***E.J.*** reaching out)
 * U.S. Census Bureau (***Ryan*** reaching out)
 * Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
 * Bureau of Economic Analysis (***Ryan*** reaching out)
