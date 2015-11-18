@@ -25,7 +25,13 @@ Widening the circle to early partners we still want to loop in early. Will look 
 
 * DirectEmployers/National Labor Exchange (Pam Gerassimides)
 * Oracle (Taleo) (***Ryan*** reaching out)
+* SAP (people soft)
 * craigslist (Jason Yurasek <Jason@thejyfirm.com>; Clint Powell <clint@craigslist.org>)
+* AT&T (***Rachel*** has connections to reach out to)
+* Walmart
+* Monster
+* Indeed
+* Simply Hired
 * Bayes Impact (Eric Liu <eric@bayesimpact.org>)
 * U.S. Census Bureau (***Ryan*** reaching out)
 * Commerce (Ian Kalin <IKalin@doc.gov>, David Langdon <DLangdon@doc.gov>)
@@ -35,16 +41,10 @@ Widening the circle to early partners we still want to loop in early. Will look 
 * Georgetown (Tony Carnavale)
 * Microsoft (John Paul Farmer <john.farmer@microsoft.com>)
 * Kanjoya
-* AT&T (***Rachel*** has connections to reach out to)
-* Walmart
 
 ### Phase 3 Partners
 Widen the circle further to partners who we'll deliver a more defined schema to and ask to adopt and implement on a large scale.
 
-* SAP (people soft)
-* Office of Personnel Management (OPM)/USA Jobs
 * GovLab (Beth Novek <noveck@gmail.com>)
-* Monster
-* Indeed
-* Simply Hired
+* Office of Personnel Management (OPM)/USA Jobs
 * 18F (Gray Brooks, Erie Meyer)
