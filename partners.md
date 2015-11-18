@@ -41,6 +41,7 @@ Widening the circle to early partners we still want to loop in early. Will look 
 * Georgetown (Tony Carnavale)
 * Microsoft (John Paul Farmer <john.farmer@microsoft.com>)
 * Kanjoya
+* Lumina Foundation
 
 ### Phase 3 Partners
 Widen the circle further to partners who we'll deliver a more defined schema to and ask to adopt and implement on a large scale.
