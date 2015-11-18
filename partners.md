@@ -45,4 +45,5 @@ Widen the circle further to partners who we'll deliver a more defined schema to 
 * GovLab (Beth Novek <noveck@gmail.com>)
 * Monster
 * Indeed
+* Simply Hired
 * 18F (Gray Brooks, Erie Meyer)
